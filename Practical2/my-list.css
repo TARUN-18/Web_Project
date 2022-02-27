@@ -4,13 +4,13 @@ body{
   }
 
 #heading{
-    background-image: url(images/header1.jpg);
+    background-image: url(images/header1.JPG);
 	height: 500px;
 	width: 100%;
     display:flex;
 	background-size: cover;
     background-position: top;
-	background-image: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url(images/header1.jpg);
+	background-image: linear-gradient(rgba(0, 0, 0, .3), rgba(0, 0, 0, .3)), url(images/header1.JPG);
 	
 }
 #heading p
